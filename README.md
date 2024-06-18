@@ -40,6 +40,4 @@ Currently pursuing a Bachelor's degree in Computer Science at UP Famnit Faculty 
   </a></p>
   
 ### Badges
-<b>My GitHub Stats</b><a href="http://www.github.com/AngelaPan82"><img src="https://github-readme-stats.vercel.app/api?           
-   username=AngelaPan82&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelaPan82's GitHub stats" /></a><a href="https://github.com/AngelaPan82" align="left"><img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaPan82&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <b>My GitHub Stats</b><a href="http://www.github.com/AngelaPan82"><img src="https://github-readme-stats.vercel.app/api?           username=AngelaPan82&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelaPan82's GitHub stats" /></a><a href="https://github.com/AngelaPan82" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaPan82&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
